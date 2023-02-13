@@ -1,0 +1,22 @@
+<?php
+$MESS['KO_EXPORTIMPORT_MENU_TITLE'] = 'HL Логирование/Экспорт/Импорт';
+$MESS['KO_EXPORTIMPORT_MENU_EXPORT'] = 'Экспорт';
+$MESS['KO_EXPORTIMPORT_MENU_EXPORT_CSV'] = 'Экспорт CSV';
+$MESS['KO_EXPORTIMPORT_MENU_EXPORT_JSON'] = 'Экспорт JSON';
+
+$MESS['KO_EXPORTIMPORT_MENU_IMPORT'] = 'Импорт';
+$MESS['KO_EXPORTIMPORT_MENU_IMPORT_CSV'] = 'Импорт CSV';
+$MESS['KO_EXPORTIMPORT_MENU_IMPORT_JSON'] = 'Импорт JSON';
+
+$MESS['KO_EXPORTIMPORT_MENU_REGISTER'] = 'Регистрация событий';
+$MESS['KO_EXPORTIMPORT_MENU_REGISTER_HLEVENTS'] = 'Регистрация событий HL блоков';
+
+$MESS['KO_EXPORTIMPORT_MENU_LOG'] = 'Получение логов событий';
+$MESS['KO_EXPORTIMPORT_MENU_LOG_HLEVENTS'] = 'Получение логов событий highload блоков';
+
+
+$MESS['KO_EXPORTIMPORT_MENU_REGISTERIMPORT'] = 'Импорт файла логов';
+$MESS['KO_EXPORTIMPORT_MENU_REGISTERIMPORT_CSV'] = 'Импорт CSV';
+
+
+$MESS['KO_EXPORTIMPORT_MENU_IMPORT_REPORT'] = 'Импорт измененых элементов';
